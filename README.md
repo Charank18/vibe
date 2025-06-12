@@ -21,7 +21,7 @@ ViBe draws inspiration from the classical Indian tale of Vikram and Betaal. In t
 
 ## Quick Start
 
-For detailed setup instructions and comprehensive guides for both developers and end users, please refer to our [Documentation(In Progress)](https://continuousactivelearning.github.io/vibe/).
+For detailed setup instructions and comprehensive guide for both developers and end users, please refer to our [Documentation(In Progress)](https://continuousactivelearning.github.io/vibe/).
 
 ## License
 
